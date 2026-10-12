@@ -1,0 +1,19 @@
+html{
+    background-color: #f8efb7;
+    font-family: "Black Ops One", system-ui, regular, sans-serif;
+   
+}
+
+
+
+.nav-color{
+    background-color: #f3dc5c;
+    padding: 10px;
+    margin: 0px;
+}
+
+.main-content{
+    background-color: #f35cb7;
+    padding: 20px;
+    margin: 0px;
+} 
